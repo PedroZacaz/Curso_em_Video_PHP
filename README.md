@@ -1,2 +1,2 @@
-# Curso_em_Video_PHP
+# Curso em Vídeo PHP Moderno
 Repositório das aulas e exercício do curso PHP Moderno do Curso em Video
