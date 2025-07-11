@@ -8,9 +8,12 @@
 <body>
     <h1>
         <?php 
-            echo "Olá, Mundo!";
+            echo "Olá, Mundo! \u{1F30E}";
         ?>
     </h1>
     <p>Vamos tentr nos livrar da maldição</p>
+    <?php 
+        echo "Primeira linha em PHP";
+    ?>
 </body>
 </html>
